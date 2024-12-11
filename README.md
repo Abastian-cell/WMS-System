@@ -3,6 +3,8 @@ Aplikasi pengelolaan barang berbasis web dengan framework Codeigniter 3
 
 Ada beberapa tahap dalam menginstall aplikasi wms ini.
 
+Extrack file wms.rar dengan menggunakan winrar atau winzip.
+
 Install XAMPP
 1. Tahap pertama pastikan ada sudah mengintall xampp dilaptop atau komputer anda
 2. Copy folder wms dan paste kan di direktori C:\xampp\htdocs
