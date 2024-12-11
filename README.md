@@ -11,6 +11,12 @@ Install XAMPP
 5. Settingan awal selesai
 6. ![image](https://github.com/user-attachments/assets/78307d1c-058d-432f-a5be-52468d49f1d4)
 
+Struktur database
+![image](https://github.com/user-attachments/assets/6b15d752-9d7c-412a-9472-a3a19e3efeea)
+![image](https://github.com/user-attachments/assets/4fb9d32c-7685-4496-9ef9-d9294f55f1f0)
+
+
+
 Penggunaan Aplikasi
 1. Masukan link berikut ke browser anda http://localhost/wms/
    ![image](https://github.com/user-attachments/assets/e44ef59a-c075-492b-95f1-5f43ff07de24)
